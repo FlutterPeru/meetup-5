@@ -12,7 +12,7 @@ Slides : https://docs.google.com/presentation/d/1rvQZSrpEE4QojbhC6gkJtdyeeByk6_w
 Slides  : https://drive.google.com/file/d/1-MqmcA-JPJdR9RKPzIyvGsZOUL40C-FR/view?usp=sharing
 
 
-- **"Continious Delivery in Flutter with Fastlan" - Enzo Lizama (@enzoftware) **
+- **"Continious Delivery in Flutter with Fastlan" - Enzo Lizama (@enzoftware)**
 
 Slides: https://drive.google.com/file/d/1tBnPGMTkek1hjytu2bS2JM8xvII_MetO/view
 
