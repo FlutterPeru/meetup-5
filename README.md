@@ -23,7 +23,6 @@ https://drive.google.com/drive/folders/1VV-gtgwG3C7EjKdbs9Vk6l1ux3BbxFhh?usp=sha
 
 ## Organización 
 - [Flutter Perú](https://github.com/FlutterPeru)
-- Frank Moreno (@kranfix)
 
 
 https://www.meetup.com/Flutter-Peru/events/263465265/
